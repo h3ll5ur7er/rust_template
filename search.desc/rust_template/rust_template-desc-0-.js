@@ -1,0 +1,1 @@
+searchState.loadedDescShard("rust_template", 0, "#Example crate example crate for demonstraton purposes\n#Example module example module for demonstraton purposes\nAdds two numbers")
